@@ -1,0 +1,15 @@
+cl\rstazzi\service\ProductServiceImp.class
+cl\rstazzi\service\CategoryServiceImp.class
+cl\rstazzi\controller\ProductController.class
+cl\rstazzi\CORSConfiguration$1.class
+cl\rstazzi\controller\CategoryController.class
+cl\rstazzi\config\SwaggerConfiguration.class
+cl\rstazzi\repository\CategoryRepository.class
+cl\rstazzi\RodolfoStazziBsaleTestApplication.class
+cl\rstazzi\CORSConfiguration.class
+cl\rstazzi\service\CategoryService.class
+cl\rstazzi\service\ProductoService.class
+cl\rstazzi\model\Category.class
+cl\rstazzi\model\Product.class
+cl\rstazzi\ServletInitializer.class
+cl\rstazzi\repository\ProductRepository.class
